@@ -12,6 +12,7 @@ import { useState } from "react";
 import { UserOutlined, HomeOutlined } from "@ant-design/icons";
 import type { MenuProps } from "antd";
 import { Menu } from "antd";
+import "./App.scss";
 // import './index.css'
 
 const items: MenuProps["items"] = [
